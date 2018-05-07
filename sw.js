@@ -1,4 +1,4 @@
-var CACHE_NAME = 'mysitecache15';
+var CACHE_NAME = 'mysitecache16';
 var urlsToCache = [
   './',
   './site.css',
@@ -52,7 +52,9 @@ self.addEventListener('fetch', function(event) {
 
   self.addEventListener('activate', function(event) {
 
-    var cacheWhitelist = ['mysitecache15'];
+    var cacheWhitelist = [
+      CACHE_NAME
+    ];
    // console.log("before event waitunil activate");
     event.waitUntil(
       caches.keys().then(function(cacheNames) {
