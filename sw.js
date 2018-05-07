@@ -1,4 +1,4 @@
-var CACHE_NAME = 'mysitecache17';
+var CACHE_NAME = 'mysitecache18';
 var urlsToCache = [
   './',
   './site.css',
@@ -23,9 +23,9 @@ self.addEventListener('fetch', function(event) {
       caches.match(event.request)
         .then(function(response) {
           // Cache hit - return response
-          if (response) {
-            return response;
-          }
+          // if (response) {
+          //   return response;
+          // }
 
           var fetchRequest = event.request.clone();
 
