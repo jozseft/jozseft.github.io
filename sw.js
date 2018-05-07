@@ -52,7 +52,7 @@ self.addEventListener('fetch', function(event) {
 
   self.addEventListener('activate', function(event) {
 
-    var cacheWhitelist = [CACHE_NAME];
+    var cacheWhitelist = ['mysitecache15'];
    // console.log("before event waitunil activate");
     event.waitUntil(
       caches.keys().then(function(cacheNames) {
