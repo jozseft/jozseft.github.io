@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1639252084555,
+  "timestamp": 1714323082412,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,10 +13,10 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.c085af515b806464.js",
+        "/main.7329d3e0d3a94d1a.js",
         "/manifest.webmanifest",
-        "/polyfills.bde7883f6ba1ff3f.js",
-        "/runtime.6012f7149b6e3aea.js",
+        "/polyfills.17dc246beb23819d.js",
+        "/runtime.e7d8f250a9bbda80.js",
         "/styles.ef46db3751d8e999.css"
       ],
       "patterns": []
@@ -30,7 +30,6 @@
       },
       "urls": [
         "/assets/LI-In-Bug.png",
-        "/assets/Twitter_Logo_Blue.png",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -47,7 +46,6 @@
   "dataGroups": [],
   "hashTable": {
     "/assets/LI-In-Bug.png": "eb0a7e1284e631d80c3225c0e2d6c7af931de535",
-    "/assets/Twitter_Logo_Blue.png": "acc364946077b0e32b2343474ce4066ad3ee524c",
     "/assets/icons/icon-128x128.png": "0a8c498f5f6e6197e95966a0bc170ee1e6e1fb35",
     "/assets/icons/icon-144x144.png": "9d4f3b888864b06e86e9766fefbae8edbe98b615",
     "/assets/icons/icon-152x152.png": "1ffe9f2f226f3a686e9640037dbd071fe0af4af7",
@@ -58,11 +56,11 @@
     "/assets/icons/icon-96x96.png": "8a5986cfd9dd4cf42cffc36b4641a4f5f58fc3fb",
     "/assets/photo.jpg": "4eb1431e4063eeaa8c7af0513fab503279ac10e2",
     "/favicon.ico": "c2011e7c98bc65ea93fb19a560f0ac3eb45f381d",
-    "/index.html": "c43ea742b5dfaf727513428b25f7821c5fc10a29",
-    "/main.c085af515b806464.js": "b4e46ed96cfeda88adbd4d8f93077716396b4a85",
+    "/index.html": "220bed7b21491f353df505522f1448de56925195",
+    "/main.7329d3e0d3a94d1a.js": "945360559a2a4f31330692ecfff72bd46dfe102e",
     "/manifest.webmanifest": "9ce3eaa18319baba53a2fdbc530d6282bd6da8ab",
-    "/polyfills.bde7883f6ba1ff3f.js": "087fa18092cfdcaef512dc72c40ce1db70a8120a",
-    "/runtime.6012f7149b6e3aea.js": "fefc1d3cdc517a47f932e8f0d563e9dab47f6548",
+    "/polyfills.17dc246beb23819d.js": "26480c78bf888d0c778186e68e91d4c6ab56cfce",
+    "/runtime.e7d8f250a9bbda80.js": "0fead861ea047047bbefbf71f6b3539f99263b9d",
     "/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
